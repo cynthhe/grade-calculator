@@ -1,29 +1,3 @@
-/*
- * GradeCalculator.java
- * Author: Cynthia He, Evan Howell, Laurenz Holcik
- * Submission Date: September 18, 2018
- *
- * Purpose: The program reads in information about the grading weights,
- * known scores and desired grade of the user. It outputs information
- * on how well the user is performing and how he needs to perform
- * in the future to receive the desired grade.
- *
- * Statement of Academic Honesty:
- *
- * The following code represents my own work. I have neither
- * received nor given inappropriate assistance. I have not copied
- * or modified code from any source other than the course webpage
- * or the course textbook. I recognize that any unauthorized
- * assistance or plagiarism will be handled in accordance with
- * the University of Georgia's Academic Honesty Policy and the
- * policies of this course. I recognize that my work is based
- * on an assignment created by the Department of Computer Science
- * at the University of Georgia. Any publishing
- * or posting of source code for this project is strictly
- * prohibited unless you have written consent from the Department
- * of Computer Science at the University of Georgia.
- */
-
 import java.util.Scanner;
 
 public class GradeCalculator {
